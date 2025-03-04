@@ -1,0 +1,13 @@
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\controller\AuthController.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\controller\DemoController.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\DemoApplication.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\dto\AuthenticationRequest.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\dto\AuthenticationResponse.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\dto\RegisterRequest.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\model\Role.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\model\User.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\repository\UserRepository.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\security\JwtAuthenticationFilter.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\security\JwtService.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\security\SecurityConfig.java
+D:\HW & Project\Software Development\Week 5\demo\src\main\java\com\example\demo\service\AuthenticationService.java

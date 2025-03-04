@@ -1,0 +1,17 @@
+com\example\demo\dto\RegisterRequest.class
+com\example\demo\DemoApplication.class
+com\example\demo\controller\DemoController.class
+com\example\demo\model\User$UserBuilder.class
+com\example\demo\dto\RegisterRequest$RegisterRequestBuilder.class
+com\example\demo\model\User.class
+com\example\demo\repository\UserRepository.class
+com\example\demo\service\AuthenticationService.class
+com\example\demo\security\JwtAuthenticationFilter.class
+com\example\demo\security\JwtService.class
+com\example\demo\dto\AuthenticationResponse.class
+com\example\demo\controller\AuthController.class
+com\example\demo\dto\AuthenticationRequest.class
+com\example\demo\security\SecurityConfig.class
+com\example\demo\dto\AuthenticationRequest$AuthenticationRequestBuilder.class
+com\example\demo\model\Role.class
+com\example\demo\dto\AuthenticationResponse$AuthenticationResponseBuilder.class
